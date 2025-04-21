@@ -15,7 +15,7 @@ const brands = [
     id: 'magnetti-marelli',
     name: 'Marelli',
     description: 'Yenilikçi otomotiv teknolojileri',
-    logo: '/brands/MARELLİ.png',
+    logo: '/brands/mar.png',
     website: 'https://www.marelli.com/'
   }
 ];
