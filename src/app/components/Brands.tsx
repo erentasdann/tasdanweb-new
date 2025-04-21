@@ -13,7 +13,7 @@ const brands = [
   {
     id: 2,
     name: 'Magnetti Marelli',
-    image: '/brands/MARELLİ.png'
+    image: '/brands/mar.png'
   }
 ];
 
